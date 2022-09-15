@@ -1,0 +1,8 @@
+IdeaVIM
+Key Promoter X
+com.brandiico.jetbrains-nightfall-theme
+com.intellij.kubernetes
+com.jpospisil.gototabs
+com.mallowigi
+com.markskelton.one-dark-theme
+io.kanro.idea.plugin.protobuf
